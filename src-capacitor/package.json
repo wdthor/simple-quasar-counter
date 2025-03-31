@@ -1,0 +1,13 @@
+{
+  "name": "counter",
+  "version": "0.0.1",
+  "description": "A simple counting app to test Quasar",
+  "author": "wdthor <wdthor@proton.me>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/app": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}
