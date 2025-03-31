@@ -4,6 +4,12 @@ A mini counter app for testing Quasar
 
 ![counter](showcase.jpg)
 
+## Features
+
+- increase/decrease counter
+- prevent decrease below 0
+- data persisted with localStorage
+
 ## Install the dependencies
 
 ```bash

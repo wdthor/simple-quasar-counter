@@ -24,7 +24,7 @@
         />
       </div>
     </section>
-    <section class="row q-pb-xl">
+    <section class="row">
       <q-btn @click="reset" icon="restart_alt" size="xl" round />
     </section>
   </q-page>
